@@ -221,14 +221,10 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Blog App",
+    name: "Photo Studio Website ",
     description:
-      "Web application that allows users to create, read, update, and delete blog posts. Users can also comment on posts, follow authors, and share content on social media.",
+      "AceStudios is a professional photography website featuring a responsive gallery, blog, and contact form. It showcases a sleek design, highlights our team, and integrates social media. I built this project with a focus on aesthetics and user experience.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
       {
         name: "html",
         color: "green-text-gradient",
@@ -239,15 +235,15 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Vilacegen/Photographic.git",
   },
   {
-    name: "Elderly Health App",
+    name: "AI Fact-checker",
     description:
-      "A comprehensive health management platform designed for the elderly, providing features such as medication reminders, health tracking, telehealth consultations, and personalized wellness recommendations.",
+      "The AI Fact-Checker is a web app that evaluates the truthfulness of statements by referencing a fact database. It provides a verdict, a certainty score, and an interactive graph showing the reasoning process. I built the frontend in React, focusing on a seamless user experience.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
@@ -260,7 +256,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/RaphaelDarley/cicero.git",
   },
 ];
 
