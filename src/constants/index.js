@@ -23,6 +23,7 @@ import {
   shopify,
   carrent,
   jobit,
+  car,
   tripguide,
   /* threejs, */
 } from "../assets";
@@ -236,6 +237,23 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/Vilacegen/Photographic.git",
+  },
+  {
+    name: "Car Wash Website ",
+    description:
+      "Auto Wash is a website for a cra wash where users can book for car cleaning, and maintenance services, provided by professional car experts",
+    tags: [
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: car,
+    source_code_link: "https://github.com/Vilacegen/Car-wash-site.git",
   },
   {
     name: "AI Fact-checker",
