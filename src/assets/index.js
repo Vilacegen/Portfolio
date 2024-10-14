@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import car from "./car.jpg";
+import spa from "./sp.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -58,6 +59,7 @@ export {
   starbucks,
   tesla,
   car,
+  spa,
   carrent,
   jobit,
   tripguide,

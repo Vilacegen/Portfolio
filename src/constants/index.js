@@ -24,6 +24,7 @@ import {
   carrent,
   jobit,
   car,
+  spa,
   tripguide,
   /* threejs, */
 } from "../assets";
@@ -254,6 +255,23 @@ const projects = [
     ],
     image: car,
     source_code_link: "https://github.com/Vilacegen/Car-wash-site.git",
+  },
+  {
+    name: "Spa Website ",
+    description:
+      "Discover tranquility at Spa Cleopatra, where we offer luxurious massages, facials, and holistic therapies. Our skilled therapists create a serene environment designed to rejuvenate your mind and body. Escape the everyday and prioritize your well-being with us.",
+    tags: [
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: spa,
+    source_code_link: "https://github.com/Vilacegen/Spa.git",
   },
   {
     name: "AI Fact-checker",
