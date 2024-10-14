@@ -31,8 +31,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_sv7gcii",
-        "template_yd0peer",
+        "service_9bddpce",
+        "template_sv7gcii",
         {
           from_name: form.name,
           to_name: "Solace",
