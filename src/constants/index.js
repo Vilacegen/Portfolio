@@ -241,7 +241,7 @@ const projects = [
   {
     name: "Car Wash Website ",
     description:
-      "Auto Wash is a website for a cra wash where users can book for car cleaning, and maintenance services, provided by professional car experts",
+      "Auto Wash is a website for a car wash where users can book for car cleaning, and maintenance services, provided by professional car experts",
     tags: [
       {
         name: "html",
